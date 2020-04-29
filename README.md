@@ -6,12 +6,18 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 
 <table>
   <tbody>
-	<tr align="center"> 
-		<th><strong>The Fastest Realtime Multiple Faces Detection GUI</strong></th>
+	<tr style="text-align: center;"> 
+		<th><strong>Walking in London Faces Detection</strong></th>
+        <th><strong>Walking in Melbourne Faces Detection</strong></th>
+        <th><strong>Walking in New York Faces Detection</strong></th>
 	</tr>
-	<tr align="center">
+	<tr style="text-align: center;">
 		<td><img src="outputs/output1.gif"></td>
+	</tr>
+	<tr style="text-align: center;">
 		<td><img src="outputs/output2.gif"></td>
+	</tr>
+	<tr style="text-align: center;">
 		<td><img src="outputs/output3.gif"></td>
 	</tr>
 </tbody>
@@ -35,18 +41,22 @@ Imutils are a series of convenience functions to make basic image processing fun
   <li>Download <a href="https://github.com/thegopieffect/computer_vision/blob/master/CAFFE_DNN/res10_300x300_ssd_iter_140000.caffemodel">res10_300x300_ssd_iter_140000.caffemodel</a> and place it under a folder called data/weights.</li>
 </ul>
 
-## The Folder Directory Structure
+## The Project Repository Directory Structure
 
 <table>
   <tbody>
-	<tr align="center">
+	<tr style="text-align: center;">
 		<th><strong>Firstly create data folder</strong></th>
-		<th><strong>Then create model folder inside data folder</strong></th>
-		<th><strong>And create weights folder inside data folder</strong></th>
+		<th><strong>Then model folder inside data folder</strong></th>
+		<th><strong>And weights folder inside data folder</strong></th>
 	</tr>
-	<tr align="center">
+	<tr style="text-align: center;">
 		<td><img src="dir_struc/data.jpg"></td>
+	</tr>
+	<tr style="text-align: center;">
 		<td><img src="dir_struc/model.jpg"></td>
+	</tr>
+	<tr style="text-align: center;">
 		<td><img src="dir_struc/weights.jpg"></td>
 	</tr>
 </tbody>
