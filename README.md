@@ -8,7 +8,11 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
   <tbody>
 	<tr style="text-align: center;"> 
 		<th><strong>Walking in London Faces Detection</strong></th>
+	</tr>
+	<tr style="text-align: center;">
         <th><strong>Walking in Melbourne Faces Detection</strong></th>
+	</tr>
+	<tr style="text-align: center;">
         <th><strong>Walking in New York Faces Detection</strong></th>
 	</tr>
 	<tr style="text-align: center;">
@@ -47,8 +51,12 @@ Imutils are a series of convenience functions to make basic image processing fun
   <tbody>
 	<tr style="text-align: center;">
 		<th><strong>Firstly create data folder</strong></th>
-		<th><strong>Then model folder inside data folder</strong></th>
-		<th><strong>And weights folder inside data folder</strong></th>
+	</tr>
+	<tr style="text-align: center;">
+		<th><strong>Then create model folder inside data folder</strong></th>
+	</tr>
+	<tr style="text-align: center;">
+		<th><strong>And create weights folder inside data folder</strong></th>
 	</tr>
 	<tr style="text-align: center;">
 		<td><img src="dir_struc/data.jpg"></td>
