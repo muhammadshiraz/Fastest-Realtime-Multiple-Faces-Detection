@@ -4,28 +4,17 @@ Fastest Realtime Multiple Faces Detection using the deep neural networks (dnn) m
 # OpenCV Deep Neural Networks (dnn module)
 OpenCV dnn module supports running inference on pre-trained deep learning models from popular frameworks such as TensorFlow, Torch, Darknet and Caffe.
 
-<table>
-  <tbody>
-	<tr align="center"> 
-		<th><strong>Walking in London Faces Detection</strong></th>
-	</tr>
-	<tr align="center">
-		<td><img src="outputs/output1.gif"></td>
-	</tr>
-	<tr align="center">
-        <th><strong>Walking in Melbourne Faces Detection</strong></th>
-	</tr>
-	<tr align="center">
-		<td><img src="outputs/output2.gif"></td>
-	</tr>
-	<tr align="center">
-        <th><strong>Walking in New York Faces Detection</strong></th>
-	</tr>
-	<tr align="center">
-		<td><img src="outputs/output3.gif"></td>
-	</tr>
-</tbody>
-</table>
+## Walking in London Faces Detection
+
+<p><img src="outputs/output1.gif"></p>
+
+## Walking in Melbourne Faces Detection
+
+<p><img src="outputs/output2.gif"></p>
+
+## Walking in New York Faces Detection
+
+<p><img src="outputs/output3.gif"></p>
 
 # Imutils
 
