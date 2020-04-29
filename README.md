@@ -6,22 +6,22 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 
 <table>
   <tbody>
-	<tr style="text-align: center;"> 
+	<tr align="center"> 
 		<th><strong>Walking in London Faces Detection</strong></th>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<td><img src="outputs/output1.gif"></td>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
         <th><strong>Walking in Melbourne Faces Detection</strong></th>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<td><img src="outputs/output2.gif"></td>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
         <th><strong>Walking in New York Faces Detection</strong></th>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<td><img src="outputs/output3.gif"></td>
 	</tr>
 </tbody>
@@ -49,22 +49,22 @@ Imutils are a series of convenience functions to make basic image processing fun
 
 <table>
   <tbody>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<th><strong>Firstly create data folder</strong></th>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<td><img src="dir_struc/data.jpg"></td>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<th><strong>Then create model folder inside data folder</strong></th>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<td><img src="dir_struc/model.jpg"></td>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<th><strong>And create weights folder inside data folder</strong></th>
 	</tr>
-	<tr style="text-align: center;">
+	<tr align="center">
 		<td><img src="dir_struc/weights.jpg"></td>
 	</tr>
 </tbody>
